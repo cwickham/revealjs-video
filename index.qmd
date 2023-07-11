@@ -1,0 +1,6 @@
+---
+title: "Video size"
+format: revealjs
+---
+
+{{< video test.mp4 >}}
